@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GreedoRen/Node.js/issues"
   },
-  "homepage": "https://github.com/GreedoRen/Node.js#readme"
+  "homepage": "https://github.com/GreedoRen/Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
